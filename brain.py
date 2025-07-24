@@ -15,7 +15,7 @@ from tensorflow.keras.callbacks import EarlyStopping, ModelCheckpoint
 from sklearn.metrics import classification_report, confusion_matrix
 
 # Set paths
-data_dir = r'C:\labmentix\brainTumor\Tumour'
+data_dir = r'C:\brainTumor\Tumour'
 train_dir = os.path.join(data_dir, 'train')
 val_dir = os.path.join(data_dir, 'test')
 
