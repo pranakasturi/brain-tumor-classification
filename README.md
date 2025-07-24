@@ -27,6 +27,10 @@ brainTumor/
         ├── pituitary/
         └── no_tumor/
 ```
+📌 Dataset
+Source: [Brain Tumor MRI Multi-Class](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset) 
+
+```
 
 ## 🔧 Setup Instructions
 
