@@ -70,10 +70,10 @@ streamlit run app.py
 Example output for MobileNetV2:
 
 ```
-Accuracy: 0.87
-Precision: 0.86
-Recall: 0.85
-F1-score: 0.85
+Accuracy: 0.92
+Precision: 0.92
+Recall: 0.92
+F1-score: 0.92
 ```
 
 ## 📊 Streamlit Interface
